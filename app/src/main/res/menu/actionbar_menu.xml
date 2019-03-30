@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_1"
+        android:onClick="onClick_Menu1"
+        android:title="Graph All" />
+
+    <item
+        android:id="@+id/Item_2"
+        android:title="Information" />
+
+    <item
+        android:id="@+id/exit"
+        android:onClick="onClick_Menu_Exit"
+        android:title="Exit" />
+
+</menu>
